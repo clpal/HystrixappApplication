@@ -1,0 +1,2 @@
+# HystrixappApplication
+HystrixappApplication  fault tolerance
